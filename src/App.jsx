@@ -40,6 +40,7 @@ const PublicLayout = () => {
         <Outlet />
       </div>
       <Footer />
+      
       <CartDrawer />
       <WhatsAppModal />
       <FloatingWhatsApp />

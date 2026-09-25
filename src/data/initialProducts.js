@@ -417,7 +417,7 @@ export const INITIAL_PRODUCTS = [
     inStock: true,
     sortOrder: 12,
     tags: ["Best Seller"],
-    images: ["https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"],
+    images: ["blob:https://gemini.google.com/fcdc3964-71d1-4087-a141-bd23c119def2"],
     variants: [
       { id: "v1", ram: "4GB", storage: "64GB", price: 30999, oldPrice: 33999, inStock: true },
       { id: "v2", ram: "4GB", storage: "128GB", price: 33999, oldPrice: 36999, inStock: true }
@@ -446,7 +446,7 @@ export const INITIAL_PRODUCTS = [
     inStock: true,
     sortOrder: 13,
     tags: ["New Arrival"],
-    images: ["https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&auto=format&fit=crop&q=80"],
+    images: ["blob:https://gemini.google.com/d857fd7c-fca8-4d7f-a253-7af333954b66"],
     variants: [
       { id: "v1", ram: "4GB", storage: "64GB", price: 38999, oldPrice: 41999, inStock: true },
       { id: "v2", ram: "4GB", storage: "128GB", price: 44999, oldPrice: 47999, inStock: true }
